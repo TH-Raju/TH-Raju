@@ -11,14 +11,14 @@
 ### Connect with me:
 
 
-[![website](./img/facebook-light.svg)](https://www.facebook.com/rjraju.r8#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/rjraju.r8#gh-dark-mode-only)
+[![website](img/facebook-light.svg)](https://www.facebook.com/rjraju.r8)
+
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/th-raju#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/th-raju#gh-dark-mode-only)
+[![website](img/linkedin-light.svg)](https://www.linkedin.com/in/th-raju)
+
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/th_raju.r8#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/th_raju.r8#gh-dark-mode-only)
+[![website](img/instagram-light.svg)](https://www.instagram.com/th_raju.r8)
+
 
 ### Languages and Tools:
 
@@ -28,27 +28,25 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Django" width="30px" src="./img/django.svg" />][]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
 <br />
 <br />
-
 ---
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="TH-Raju GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TH-Raju&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="TH-Raju's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Th-Raju&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
-[linkedin]: https://www.linkedin.com/in/th-raju
+
 [instagram]: https://www.instagram.com/th_raju.r8
+[linkedin]: https://www.linkedin.com/in/th-raju
 [facebook]: https://www.facebook.com/rjraju.r8
+
