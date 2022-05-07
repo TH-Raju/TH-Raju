@@ -11,7 +11,7 @@
 ### Connect with me:
 
 
-[![website](img/facebook-light.svg)](https://www.facebook.com/rjraju.r8)
+[![website](facebook-light.svg)](https://www.facebook.com/rjraju.r8)
 
 &nbsp;&nbsp;
 [![website](img/linkedin-light.svg)](https://www.linkedin.com/in/th-raju)
