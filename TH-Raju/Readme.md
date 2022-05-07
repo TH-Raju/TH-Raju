@@ -12,7 +12,7 @@
 
 
 [![website](img/facebook-light.svg)](https://www.facebook.com/rjraju.r8)
-[![website](img/facebook-dark.svg)](https://www.facebook.com/rjraju.r8)
+
 &nbsp;&nbsp;
 [![website](img/linkedin-light.svg)](https://www.linkedin.com/in/th-raju)
 [![website](img/linkedin-dark.svg)](https://www.linkedin.com/in/th-raju)
