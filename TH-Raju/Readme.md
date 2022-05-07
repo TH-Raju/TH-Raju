@@ -15,10 +15,10 @@
 
 &nbsp;&nbsp;
 [![website](img/linkedin-light.svg)](https://www.linkedin.com/in/th-raju)
-[![website](img/linkedin-dark.svg)](https://www.linkedin.com/in/th-raju)
+
 &nbsp;&nbsp;
 [![website](img/instagram-light.svg)](https://www.instagram.com/th_raju.r8)
-[![website](img/instagram-dark.svg)](https://www.instagram.com/th_raju.r8)
+
 
 ### Languages and Tools:
 
