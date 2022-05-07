@@ -43,7 +43,3 @@
 ---
 
 </details>
-
-[linkedin]: https://www.linkedin.com/in/th-raju
-[instagram]: https://www.instagram.com/th_raju.r8
-[facebook]: https://www.facebook.com/rjraju.r8
