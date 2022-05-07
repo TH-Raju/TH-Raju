@@ -11,14 +11,14 @@
 ### Connect with me:
 
 
-[![website](../img/facebook-light.svg)](https://www.facebook.com/rjraju.r8#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/rjraju.r8#gh-dark-mode-only)
+[![website](img/facebook-light.svg)](https://www.facebook.com/rjraju.r8)
+[![website](img/facebook-dark.svg)](https://www.facebook.com/rjraju.r8#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/th-raju#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/th-raju#gh-dark-mode-only)
+[![website](img/linkedin-light.svg)](https://www.linkedin.com/in/th-raju#gh-light-mode-only)
+[![website](img/linkedin-dark.svg)](https://www.linkedin.com/in/th-raju#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/th_raju.r8#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/th_raju.r8#gh-dark-mode-only)
+[![website](img/instagram-light.svg)](https://www.instagram.com/th_raju.r8#gh-light-mode-only)
+[![website](img/instagram-dark.svg)](https://www.instagram.com/th_raju.r8#gh-dark-mode-only)
 
 ### Languages and Tools:
 
