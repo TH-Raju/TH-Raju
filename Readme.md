@@ -5,7 +5,7 @@
 - 🔭 Check out my Code
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Learn more about MERN
 - ⚡ Fun fact: I love to travel 
 
 ### Connect with me:
