@@ -56,4 +56,4 @@
 [linkedin]: https://www.linkedin.com/in/th-raju
 [facebook]: https://www.facebook.com/rjraju.r8
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TH-Raju/TH-Raju/blob/output/github-contribution-grid-snake.svg)
