@@ -38,7 +38,7 @@
 <br />
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TH-Raju&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TH-Raju&show_icons=true&locale=en" alt="TH-Raju" /></p>
 
 [instagram]: https://www.instagram.com/th_raju.r8
 [linkedin]: https://www.linkedin.com/in/th-raju
