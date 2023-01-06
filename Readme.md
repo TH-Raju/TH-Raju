@@ -38,8 +38,8 @@
 <br />
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TH-Raju&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
+
 [instagram]: https://www.instagram.com/th_raju.r8
 [linkedin]: https://www.linkedin.com/in/th-raju
 [facebook]: https://www.facebook.com/rjraju.r8
