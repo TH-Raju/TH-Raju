@@ -5,7 +5,7 @@
 - 🔭 Check out my Code
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2023 Goals: Learn more about MERN & SWE
+- 🥅 2024 Goals: Learn more about SWD & HS
 - ⚡ Fun fact: I love to travel 
 
 ### Connect with me:
