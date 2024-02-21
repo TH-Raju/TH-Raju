@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2024 Goals: Learn more about SWD & HS
-- ⚡ Fun fact: I love to travel 
+- ⚡ Fun fact: I love to travel and mangement
 
 ### Connect with me:
 <div>
