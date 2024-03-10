@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://github.com/TH-Raju">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TH-Raju&layout=compact&langs_count=7&theme=black"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TH-Raju&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
