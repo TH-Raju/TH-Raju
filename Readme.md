@@ -18,8 +18,9 @@
   <a href="https://www.instagram.com/th_raju.r8" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   
- 
-
+ </div>
+<div  align="center">
+  
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -39,8 +40,8 @@
 <img align="right" alt="Terminal" width="26px" color ="white" src="./terminal-light.svg">
 <br />
 <br />
+ </div>
 
-</div>
 
 
 <div align="center">
