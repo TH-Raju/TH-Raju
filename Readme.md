@@ -7,9 +7,10 @@
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2024 Goals: Learn more about SWD & HS
 - ⚡ Fun fact: I love to travel and mangement
-
+  
+<div  align="center">
 ### Connect with me:
-<div>
+
   <a href="https://www.facebook.com/rjraju.r8" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4505F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/th-raju" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rajukhan894200@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
