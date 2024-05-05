@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I love to travel and mangement
   
 <div  align="center">
+  
 ### Connect with me:
 
   <a href="https://www.facebook.com/rjraju.r8" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4505F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
