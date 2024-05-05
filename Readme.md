@@ -43,15 +43,14 @@
 
 
 
-
-## 📊 Stats:
 <div align="center">
+## 📊 Stats:
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=TH-Raju&show_icons=true&theme=dracula&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TH-Raju&layout=compact&theme=dracula&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-</div>
+
 
 ## 📈 Activity Graph:
-<div align="center">
 [![Raju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TH-Raju&theme=react-dark)](https://github.com/TH-Raju/github-readme-activity-graph)
 
 </div>
