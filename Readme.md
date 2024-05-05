@@ -19,7 +19,6 @@
  
   
  
-</div>
 
 ### Languages and Tools:
 
@@ -43,6 +42,7 @@
 
 
 
+</div>
 
 
 <div align="center">
