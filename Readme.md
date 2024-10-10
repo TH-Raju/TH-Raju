@@ -1,4 +1,4 @@
-# Hi there, I'm [TH-Raju](https://tofajjol-hosen-raju.web.app/) - [Air] 👋 
+# Hi there, I'm [TH-Raju](https://tofajjol-hosen-raju.web.app/) - [Possesive] 👋 
 
 ## I'm a Coder, Developer, Trainer and Traveller!!
 
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2024 Goals: Learn more about SWD & HS
-- ⚡ Fun fact: I love to travel and mangement
+- ⚡ Fun fact: I love to travel and management
   
 <div  align="center">
   
