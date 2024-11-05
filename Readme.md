@@ -52,6 +52,9 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
+[![](https://visitcount.itsvg.in/api?id=raju&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+
 ## 📈 Activity Graph:
 [![Raju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TH-Raju&theme=react-dark)](https://github.com/TH-Raju/github-readme-activity-graph)
 
