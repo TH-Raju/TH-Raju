@@ -1,11 +1,11 @@
 # Hi there, I'm [TH-Raju](https://tofajjol-hosen-raju.web.app/) - [Possesive] 👋 
 
-## I'm a Coder, Developer, Trainer and Traveller!!
+## I'm a Coder, Developer, and Traveller!!
 
 - 🔭 Check out my Code
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2025 Goals: Learn more about SWD & HS
+- 🥅 2025 Goals: Learn more about SWD & TL
 - ⚡ Fun fact: I love to travel and management
   
 <div  align="center">
