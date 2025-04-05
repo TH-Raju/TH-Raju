@@ -4,7 +4,7 @@
 
 - 🔭 Check out my Code
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other programmers and leads
+- 👯 I’m looking to collaborate with other programmers
 - 🥅 2025 Goals: Learn more about SWD & TL
 - ⚡ Fun fact: I love to travel and management
   
